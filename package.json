@@ -1,0 +1,29 @@
+{
+  "name": "graphqlserver",
+  "version": "0.0.1",
+  "description": "Simple GraphQL server just fo fun",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodok21/graphql-server.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Alex Eric <emmx@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodok21/graphql-server/issues"
+  },
+  "homepage": "https://github.com/goodok21/graphql-server#readme"
+}
