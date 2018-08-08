@@ -6,7 +6,11 @@
   npm i && npm run start
 ```
 
+API endpoint will be able at `localhost:4000`
+
 # Queries
+
+Open your in browser: `localhost:4000/graphql`
 
 ```
   query allBolelas {
