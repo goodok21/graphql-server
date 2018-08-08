@@ -36,7 +36,8 @@ const fakeDB = {
     },
     {
       id: 2,
-      name: 'bolela 2'
+      name: 'bolela 2',
+      secondName: 'to se'
     }
   ]
 }
